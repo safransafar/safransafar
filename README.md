@@ -21,7 +21,7 @@
 - <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/plant.gif" width="24" /> Constant learner, always experimenting with new tech  
 
 
-<br><br>
+<br><br><br><br><br>
 
 
 ## 🛠️ Tech Stack
