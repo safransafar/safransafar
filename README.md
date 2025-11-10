@@ -42,16 +42,6 @@
 
 <br> 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"></picture> Streak Stats
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safransafar&theme=tokyonight_duo" alt="safransafar" />
-</p>
-
-
-<br>
 
 ## 💻 GitHub Profile Stats
 
